@@ -1,0 +1,126 @@
+/* src/pages/App.css */
+
+/* Reset and base */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #0d6efd;
+}
+
+/* Header */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #1f7a1f; /* bottle green header */
+  color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  flex-wrap: wrap;
+}
+
+header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  flex: 1;
+}
+
+/* Navbar links */
+nav {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+nav a {
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: background 0.2s, color 0.2s;
+}
+
+nav a:hover {
+  background-color: #145214; /* darker green hover */
+  color: white;
+}
+
+nav a.active {
+  background-color: #0d6efd; /* blue active link */
+  color: white;
+}
+
+/* Token/Logout section */
+header > div {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+header button {
+  padding: 6px 12px;
+  background-color: #dc3545; /* red logout button */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+header button:hover {
+  background-color: #b02a37;
+}
+
+/* Footer */
+footer {
+  background-color: #1f7a1f; /* bottle green */
+  color: white;
+  text-align: center;
+  padding: 12px 16px;
+  box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+  margin-top: auto;
+}
+
+/* Outlet container */
+.main-content {
+  flex: 1;
+  padding: 20px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav {
+    width: 100%;
+    margin-top: 8px;
+  }
+
+  nav a {
+    margin-right: 8px;
+  }
+
+  header > div {
+    margin-top: 8px;
+  }
+}

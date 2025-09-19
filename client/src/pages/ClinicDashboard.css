@@ -1,0 +1,68 @@
+.clinic-dashboard {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px 20px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.clinic-dashboard h2 {
+  color: #064635;
+  margin-bottom: 20px;
+}
+
+.qr-card {
+  display: inline-block;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+.qr-wrapper {
+  padding: 16px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.qr-card h3 {
+  margin-bottom: 12px;
+  color: #046131;
+}
+
+.qr-card p {
+  margin-top: 12px;
+  font-weight: bold;
+  color: #064635;
+}
+
+.dashboard-button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  background-color: #196d2f;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
+}
+
+.dashboard-button:hover {
+  background-color: #064635;
+}
+
+/* QR scanner card */
+.qr-scan-card {
+  margin: 12px auto;
+  padding: 16px;
+  max-width: 360px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}

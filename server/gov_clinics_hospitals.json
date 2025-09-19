@@ -1,0 +1,1980 @@
+[{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd77"
+  },
+  "hospital_id": "THI_H01",
+  "name": "Tak, Dugal and Basak Community Health Center",
+  "district": "Thiruvananthapuram",
+  "type": "Private Hospital",
+  "bed_capacity": 163,
+  "coordinates": {
+    "lat": 8.529438259073622,
+    "lon": 76.93626096857929
+  },
+  "monthly_capacity": 863,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd78"
+  },
+  "hospital_id": "THI_H02",
+  "name": "Hayre, Raju and Sandal Government Hospital",
+  "district": "Thiruvananthapuram",
+  "type": "Medical College",
+  "bed_capacity": 76,
+  "coordinates": {
+    "lat": 8.523900766457627,
+    "lon": 76.97657039537589
+  },
+  "monthly_capacity": 1854,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd79"
+  },
+  "hospital_id": "THI_H03",
+  "name": "Solanki Group Medical College",
+  "district": "Thiruvananthapuram",
+  "type": "Private Hospital",
+  "bed_capacity": 167,
+  "coordinates": {
+    "lat": 8.545076280416433,
+    "lon": 76.9490537720733
+  },
+  "monthly_capacity": 984,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd7a"
+  },
+  "hospital_id": "THI_H04",
+  "name": "Vig-Dugar Community Health Center",
+  "district": "Thiruvananthapuram",
+  "type": "Community Health Center",
+  "bed_capacity": 55,
+  "coordinates": {
+    "lat": 8.501728265300189,
+    "lon": 76.91911585995035
+  },
+  "monthly_capacity": 495,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd7b"
+  },
+  "hospital_id": "THI_H05",
+  "name": "Goel, Dutta and Dada Private Hospital",
+  "district": "Thiruvananthapuram",
+  "type": "Community Health Center",
+  "bed_capacity": 112,
+  "coordinates": {
+    "lat": 8.52441671250276,
+    "lon": 76.89960855618426
+  },
+  "monthly_capacity": 1182,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd7c"
+  },
+  "hospital_id": "THI_H06",
+  "name": "Iyengar and Sons Government Hospital",
+  "district": "Thiruvananthapuram",
+  "type": "Private Hospital",
+  "bed_capacity": 153,
+  "coordinates": {
+    "lat": 8.536191572533411,
+    "lon": 76.94012190025019
+  },
+  "monthly_capacity": 1790,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd7d"
+  },
+  "hospital_id": "THI_H07",
+  "name": "Mannan Group Primary Health Center",
+  "district": "Thiruvananthapuram",
+  "type": "Private Hospital",
+  "bed_capacity": 57,
+  "coordinates": {
+    "lat": 8.521746447815909,
+    "lon": 76.94586917269235
+  },
+  "monthly_capacity": 868,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd7e"
+  },
+  "hospital_id": "THI_H08",
+  "name": "Shah-Chaudhry Medical College",
+  "district": "Thiruvananthapuram",
+  "type": "Government Hospital",
+  "bed_capacity": 205,
+  "coordinates": {
+    "lat": 8.51832589064318,
+    "lon": 76.96903543288933
+  },
+  "monthly_capacity": 1281,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd7f"
+  },
+  "hospital_id": "THI_H09",
+  "name": "Koshy Ltd Private Hospital",
+  "district": "Thiruvananthapuram",
+  "type": "Primary Health Center",
+  "bed_capacity": 97,
+  "coordinates": {
+    "lat": 8.546110698366943,
+    "lon": 76.91187058276476
+  },
+  "monthly_capacity": 1371,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd80"
+  },
+  "hospital_id": "THI_H10",
+  "name": "Dugal, Kumar and Bir District Hospital",
+  "district": "Thiruvananthapuram",
+  "type": "Private Hospital",
+  "bed_capacity": 86,
+  "coordinates": {
+    "lat": 8.550233459634862,
+    "lon": 76.95528857070941
+  },
+  "monthly_capacity": 1746,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd81"
+  },
+  "hospital_id": "THI_H11",
+  "name": "Sachdeva, Dixit and Varughese Government Hospital",
+  "district": "Thiruvananthapuram",
+  "type": "Medical College",
+  "bed_capacity": 66,
+  "coordinates": {
+    "lat": 8.507165521663413,
+    "lon": 76.94212812465689
+  },
+  "monthly_capacity": 734,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd82"
+  },
+  "hospital_id": "KOL_H01",
+  "name": "Bajwa, Lata and Pandey District Hospital",
+  "district": "Kollam",
+  "type": "Primary Health Center",
+  "bed_capacity": 287,
+  "coordinates": {
+    "lat": 8.85755293993235,
+    "lon": 76.66154817871882
+  },
+  "monthly_capacity": 1093,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd83"
+  },
+  "hospital_id": "KOL_H02",
+  "name": "Natt and Sons Private Hospital",
+  "district": "Kollam",
+  "type": "Government Hospital",
+  "bed_capacity": 198,
+  "coordinates": {
+    "lat": 8.849778502657198,
+    "lon": 76.5919745627889
+  },
+  "monthly_capacity": 868,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd84"
+  },
+  "hospital_id": "KOL_H03",
+  "name": "Shere and Sons Medical College",
+  "district": "Kollam",
+  "type": "Community Health Center",
+  "bed_capacity": 224,
+  "coordinates": {
+    "lat": 8.90660042402329,
+    "lon": 76.65883806604455
+  },
+  "monthly_capacity": 1098,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd85"
+  },
+  "hospital_id": "KOL_H04",
+  "name": "Dayal-Khosla Primary Health Center",
+  "district": "Kollam",
+  "type": "Government Hospital",
+  "bed_capacity": 243,
+  "coordinates": {
+    "lat": 8.869665221359211,
+    "lon": 76.65018927017704
+  },
+  "monthly_capacity": 287,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd86"
+  },
+  "hospital_id": "KOL_H05",
+  "name": "Swaminathan LLC Medical College",
+  "district": "Kollam",
+  "type": "Private Hospital",
+  "bed_capacity": 127,
+  "coordinates": {
+    "lat": 8.932533537759033,
+    "lon": 76.61627732196018
+  },
+  "monthly_capacity": 313,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd87"
+  },
+  "hospital_id": "KOL_H06",
+  "name": "Vig-Karnik Community Health Center",
+  "district": "Kollam",
+  "type": "Government Hospital",
+  "bed_capacity": 100,
+  "coordinates": {
+    "lat": 8.883829141952186,
+    "lon": 76.60717468853156
+  },
+  "monthly_capacity": 511,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd88"
+  },
+  "hospital_id": "KOL_H07",
+  "name": "Sharaf-Lalla Primary Health Center",
+  "district": "Kollam",
+  "type": "Government Hospital",
+  "bed_capacity": 175,
+  "coordinates": {
+    "lat": 8.870397211027628,
+    "lon": 76.60880542167156
+  },
+  "monthly_capacity": 484,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd89"
+  },
+  "hospital_id": "KOL_H08",
+  "name": "Mannan Group Primary Health Center",
+  "district": "Kollam",
+  "type": "Government Hospital",
+  "bed_capacity": 136,
+  "coordinates": {
+    "lat": 8.89186511391001,
+    "lon": 76.6323403726482
+  },
+  "monthly_capacity": 283,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd8a"
+  },
+  "hospital_id": "PAT_H01",
+  "name": "Nori PLC Medical College",
+  "district": "Pathanamthitta",
+  "type": "Community Health Center",
+  "bed_capacity": 219,
+  "coordinates": {
+    "lat": 9.217106713000375,
+    "lon": 76.81500466812412
+  },
+  "monthly_capacity": 1965,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd8b"
+  },
+  "hospital_id": "PAT_H02",
+  "name": "Barad, Lad and Raghavan Primary Health Center",
+  "district": "Pathanamthitta",
+  "type": "Primary Health Center",
+  "bed_capacity": 240,
+  "coordinates": {
+    "lat": 9.249761731047306,
+    "lon": 76.81681558896257
+  },
+  "monthly_capacity": 1202,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd8c"
+  },
+  "hospital_id": "PAT_H03",
+  "name": "Rana-Shankar Private Hospital",
+  "district": "Pathanamthitta",
+  "type": "Primary Health Center",
+  "bed_capacity": 202,
+  "coordinates": {
+    "lat": 9.278052066625444,
+    "lon": 76.80834116775785
+  },
+  "monthly_capacity": 531,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd8d"
+  },
+  "hospital_id": "ALA_H01",
+  "name": "Shah Group Private Hospital",
+  "district": "Alappuzha",
+  "type": "Primary Health Center",
+  "bed_capacity": 102,
+  "coordinates": {
+    "lat": 9.473676115073342,
+    "lon": 76.37053664129124
+  },
+  "monthly_capacity": 266,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd8e"
+  },
+  "hospital_id": "ALA_H02",
+  "name": "Chawla-Kunda Primary Health Center",
+  "district": "Alappuzha",
+  "type": "Government Hospital",
+  "bed_capacity": 105,
+  "coordinates": {
+    "lat": 9.496346604527957,
+    "lon": 76.29393045994966
+  },
+  "monthly_capacity": 1461,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd8f"
+  },
+  "hospital_id": "ALA_H03",
+  "name": "Yadav-Kala Private Hospital",
+  "district": "Alappuzha",
+  "type": "Private Hospital",
+  "bed_capacity": 237,
+  "coordinates": {
+    "lat": 9.456743935639956,
+    "lon": 76.32977926677164
+  },
+  "monthly_capacity": 1475,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd90"
+  },
+  "hospital_id": "ALA_H04",
+  "name": "Buch Group Government Hospital",
+  "district": "Alappuzha",
+  "type": "Private Hospital",
+  "bed_capacity": 195,
+  "coordinates": {
+    "lat": 9.49864329031426,
+    "lon": 76.37814973155992
+  },
+  "monthly_capacity": 835,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd91"
+  },
+  "hospital_id": "ALA_H05",
+  "name": "Bhargava-Upadhyay District Hospital",
+  "district": "Alappuzha",
+  "type": "Government Hospital",
+  "bed_capacity": 201,
+  "coordinates": {
+    "lat": 9.539082043413078,
+    "lon": 76.3435245080024
+  },
+  "monthly_capacity": 1728,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd92"
+  },
+  "hospital_id": "ALA_H06",
+  "name": "Agate-Singh Government Hospital",
+  "district": "Alappuzha",
+  "type": "Community Health Center",
+  "bed_capacity": 225,
+  "coordinates": {
+    "lat": 9.49571410593718,
+    "lon": 76.35649967931252
+  },
+  "monthly_capacity": 1483,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd93"
+  },
+  "hospital_id": "ALA_H07",
+  "name": "Lanka, Bail and Ganesan Private Hospital",
+  "district": "Alappuzha",
+  "type": "Medical College",
+  "bed_capacity": 205,
+  "coordinates": {
+    "lat": 9.472172202962728,
+    "lon": 76.3264808348248
+  },
+  "monthly_capacity": 957,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd94"
+  },
+  "hospital_id": "KOT_H01",
+  "name": "Kashyap and Sons Medical College",
+  "district": "Kottayam",
+  "type": "District Hospital",
+  "bed_capacity": 153,
+  "coordinates": {
+    "lat": 9.62129286317353,
+    "lon": 76.5601555184608
+  },
+  "monthly_capacity": 1112,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd95"
+  },
+  "hospital_id": "KOT_H02",
+  "name": "Bera, Bhattacharyya and Devi Medical College",
+  "district": "Kottayam",
+  "type": "Government Hospital",
+  "bed_capacity": 54,
+  "coordinates": {
+    "lat": 9.56740680286054,
+    "lon": 76.56002325028663
+  },
+  "monthly_capacity": 525,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd96"
+  },
+  "hospital_id": "KOT_H03",
+  "name": "Mane, Sagar and Chand Primary Health Center",
+  "district": "Kottayam",
+  "type": "Private Hospital",
+  "bed_capacity": 213,
+  "coordinates": {
+    "lat": 9.629424398672878,
+    "lon": 76.55279096221709
+  },
+  "monthly_capacity": 1372,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd97"
+  },
+  "hospital_id": "KOT_H04",
+  "name": "Wagle and Sons Medical College",
+  "district": "Kottayam",
+  "type": "Medical College",
+  "bed_capacity": 265,
+  "coordinates": {
+    "lat": 9.617902991762413,
+    "lon": 76.48842111515204
+  },
+  "monthly_capacity": 719,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd98"
+  },
+  "hospital_id": "KOT_H05",
+  "name": "Menon, Lalla and Brahmbhatt Government Hospital",
+  "district": "Kottayam",
+  "type": "Private Hospital",
+  "bed_capacity": 300,
+  "coordinates": {
+    "lat": 9.581686881719705,
+    "lon": 76.47876426438036
+  },
+  "monthly_capacity": 1479,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd99"
+  },
+  "hospital_id": "KOT_H06",
+  "name": "Chokshi-Yogi Medical College",
+  "district": "Kottayam",
+  "type": "Government Hospital",
+  "bed_capacity": 155,
+  "coordinates": {
+    "lat": 9.59284453990894,
+    "lon": 76.50994066648103
+  },
+  "monthly_capacity": 509,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd9a"
+  },
+  "hospital_id": "IDU_H01",
+  "name": "Mahal-Halder Primary Health Center",
+  "district": "Idukki",
+  "type": "Community Health Center",
+  "bed_capacity": 260,
+  "coordinates": {
+    "lat": 9.915078006128196,
+    "lon": 76.98346580715656
+  },
+  "monthly_capacity": 233,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd9b"
+  },
+  "hospital_id": "IDU_H02",
+  "name": "Bawa-Viswanathan Community Health Center",
+  "district": "Idukki",
+  "type": "District Hospital",
+  "bed_capacity": 245,
+  "coordinates": {
+    "lat": 9.869689710488327,
+    "lon": 76.9292472950036
+  },
+  "monthly_capacity": 1372,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd9c"
+  },
+  "hospital_id": "IDU_H03",
+  "name": "Varkey, Desai and Hayre Medical College",
+  "district": "Idukki",
+  "type": "District Hospital",
+  "bed_capacity": 291,
+  "coordinates": {
+    "lat": 9.940584026918488,
+    "lon": 76.96746697571024
+  },
+  "monthly_capacity": 670,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd9d"
+  },
+  "hospital_id": "ERN_H01",
+  "name": "Sami and Sons Primary Health Center",
+  "district": "Ernakulam",
+  "type": "Private Hospital",
+  "bed_capacity": 142,
+  "coordinates": {
+    "lat": 9.96034371605165,
+    "lon": 76.22639642500867
+  },
+  "monthly_capacity": 235,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd9e"
+  },
+  "hospital_id": "ERN_H02",
+  "name": "Sani, Rajagopalan and Modi Private Hospital",
+  "district": "Ernakulam",
+  "type": "District Hospital",
+  "bed_capacity": 110,
+  "coordinates": {
+    "lat": 9.968721812848946,
+    "lon": 76.22761803647516
+  },
+  "monthly_capacity": 1208,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbd9f"
+  },
+  "hospital_id": "ERN_H03",
+  "name": "Khalsa-Sarin Primary Health Center",
+  "district": "Ernakulam",
+  "type": "Private Hospital",
+  "bed_capacity": 49,
+  "coordinates": {
+    "lat": 9.927557015364426,
+    "lon": 76.27148505917503
+  },
+  "monthly_capacity": 1814,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda0"
+  },
+  "hospital_id": "ERN_H04",
+  "name": "Seshadri-Bir Private Hospital",
+  "district": "Ernakulam",
+  "type": "Community Health Center",
+  "bed_capacity": 249,
+  "coordinates": {
+    "lat": 9.941181599353978,
+    "lon": 76.30011083488154
+  },
+  "monthly_capacity": 1439,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda1"
+  },
+  "hospital_id": "ERN_H05",
+  "name": "Datta-Sane Medical College",
+  "district": "Ernakulam",
+  "type": "Private Hospital",
+  "bed_capacity": 133,
+  "coordinates": {
+    "lat": 9.96490609275939,
+    "lon": 76.25716433061275
+  },
+  "monthly_capacity": 959,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda2"
+  },
+  "hospital_id": "ERN_H06",
+  "name": "Sunder and Sons Community Health Center",
+  "district": "Ernakulam",
+  "type": "Government Hospital",
+  "bed_capacity": 180,
+  "coordinates": {
+    "lat": 9.912618953412343,
+    "lon": 76.23278765215957
+  },
+  "monthly_capacity": 1665,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda3"
+  },
+  "hospital_id": "ERN_H07",
+  "name": "Bhakta-Dutt Government Hospital",
+  "district": "Ernakulam",
+  "type": "Medical College",
+  "bed_capacity": 226,
+  "coordinates": {
+    "lat": 9.918714355579365,
+    "lon": 76.263988696068
+  },
+  "monthly_capacity": 1565,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda4"
+  },
+  "hospital_id": "ERN_H08",
+  "name": "Sagar, Mani and Kata Private Hospital",
+  "district": "Ernakulam",
+  "type": "District Hospital",
+  "bed_capacity": 229,
+  "coordinates": {
+    "lat": 9.893007350950857,
+    "lon": 76.22766995306974
+  },
+  "monthly_capacity": 1747,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda5"
+  },
+  "hospital_id": "ERN_H09",
+  "name": "Sahni PLC Private Hospital",
+  "district": "Ernakulam",
+  "type": "Primary Health Center",
+  "bed_capacity": 278,
+  "coordinates": {
+    "lat": 9.950802021757845,
+    "lon": 76.31094667516271
+  },
+  "monthly_capacity": 1188,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda6"
+  },
+  "hospital_id": "ERN_H10",
+  "name": "Dash PLC Private Hospital",
+  "district": "Ernakulam",
+  "type": "District Hospital",
+  "bed_capacity": 44,
+  "coordinates": {
+    "lat": 9.952106152071266,
+    "lon": 76.22790457822677
+  },
+  "monthly_capacity": 1882,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda7"
+  },
+  "hospital_id": "ERN_H11",
+  "name": "Tripathi, Munshi and Saraf Private Hospital",
+  "district": "Ernakulam",
+  "type": "District Hospital",
+  "bed_capacity": 299,
+  "coordinates": {
+    "lat": 9.948034454339753,
+    "lon": 76.2968837288067
+  },
+  "monthly_capacity": 1515,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda8"
+  },
+  "hospital_id": "THR_H01",
+  "name": "Kaul-Keer Government Hospital",
+  "district": "Thrissur",
+  "type": "Government Hospital",
+  "bed_capacity": 239,
+  "coordinates": {
+    "lat": 10.479131344768398,
+    "lon": 76.2327481749689
+  },
+  "monthly_capacity": 438,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbda9"
+  },
+  "hospital_id": "THR_H02",
+  "name": "Sathe-Gulati Government Hospital",
+  "district": "Thrissur",
+  "type": "Government Hospital",
+  "bed_capacity": 128,
+  "coordinates": {
+    "lat": 10.516807832611637,
+    "lon": 76.16606003233008
+  },
+  "monthly_capacity": 1997,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdaa"
+  },
+  "hospital_id": "THR_H03",
+  "name": "Tripathi-Balay Government Hospital",
+  "district": "Thrissur",
+  "type": "Government Hospital",
+  "bed_capacity": 294,
+  "coordinates": {
+    "lat": 10.4817940043952,
+    "lon": 76.23309744163545
+  },
+  "monthly_capacity": 419,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdab"
+  },
+  "hospital_id": "THR_H04",
+  "name": "Bava-Vyas Community Health Center",
+  "district": "Thrissur",
+  "type": "Medical College",
+  "bed_capacity": 182,
+  "coordinates": {
+    "lat": 10.57205548744898,
+    "lon": 76.24475367877109
+  },
+  "monthly_capacity": 1493,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdac"
+  },
+  "hospital_id": "THR_H05",
+  "name": "Arora-Shroff Primary Health Center",
+  "district": "Thrissur",
+  "type": "Private Hospital",
+  "bed_capacity": 138,
+  "coordinates": {
+    "lat": 10.573029043814747,
+    "lon": 76.22014277213454
+  },
+  "monthly_capacity": 1661,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdad"
+  },
+  "hospital_id": "THR_H06",
+  "name": "Mangat, Dar and Virk Government Hospital",
+  "district": "Thrissur",
+  "type": "District Hospital",
+  "bed_capacity": 280,
+  "coordinates": {
+    "lat": 10.51401371581472,
+    "lon": 76.25623625569268
+  },
+  "monthly_capacity": 932,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdae"
+  },
+  "hospital_id": "THR_H07",
+  "name": "Edwin, Narayan and Bahl District Hospital",
+  "district": "Thrissur",
+  "type": "Medical College",
+  "bed_capacity": 134,
+  "coordinates": {
+    "lat": 10.49708831993561,
+    "lon": 76.2344472188538
+  },
+  "monthly_capacity": 997,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdaf"
+  },
+  "hospital_id": "THR_H08",
+  "name": "Palla-Swamy Private Hospital",
+  "district": "Thrissur",
+  "type": "District Hospital",
+  "bed_capacity": 124,
+  "coordinates": {
+    "lat": 10.560950293030684,
+    "lon": 76.2104378693389
+  },
+  "monthly_capacity": 1715,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb0"
+  },
+  "hospital_id": "THR_H09",
+  "name": "Parekh, Sachar and Nanda Government Hospital",
+  "district": "Thrissur",
+  "type": "Private Hospital",
+  "bed_capacity": 73,
+  "coordinates": {
+    "lat": 10.508740135609095,
+    "lon": 76.25877734666524
+  },
+  "monthly_capacity": 953,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb1"
+  },
+  "hospital_id": "THR_H10",
+  "name": "Dey-Srinivas Medical College",
+  "district": "Thrissur",
+  "type": "District Hospital",
+  "bed_capacity": 220,
+  "coordinates": {
+    "lat": 10.577167961945339,
+    "lon": 76.2112094968301
+  },
+  "monthly_capacity": 887,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb2"
+  },
+  "hospital_id": "PAL_H01",
+  "name": "Yohannan Group Government Hospital",
+  "district": "Palakkad",
+  "type": "Government Hospital",
+  "bed_capacity": 63,
+  "coordinates": {
+    "lat": 10.81961450959388,
+    "lon": 76.62234239075599
+  },
+  "monthly_capacity": 1123,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb3"
+  },
+  "hospital_id": "PAL_H02",
+  "name": "Wali Group Private Hospital",
+  "district": "Palakkad",
+  "type": "District Hospital",
+  "bed_capacity": 267,
+  "coordinates": {
+    "lat": 10.827279785558812,
+    "lon": 76.60512999696128
+  },
+  "monthly_capacity": 1042,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb4"
+  },
+  "hospital_id": "PAL_H03",
+  "name": "Rao, Chokshi and Barman Primary Health Center",
+  "district": "Palakkad",
+  "type": "Government Hospital",
+  "bed_capacity": 239,
+  "coordinates": {
+    "lat": 10.750960582867874,
+    "lon": 76.65950427069532
+  },
+  "monthly_capacity": 221,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb5"
+  },
+  "hospital_id": "PAL_H04",
+  "name": "Vohra-Shan Community Health Center",
+  "district": "Palakkad",
+  "type": "Government Hospital",
+  "bed_capacity": 79,
+  "coordinates": {
+    "lat": 10.814628701659062,
+    "lon": 76.63757957682492
+  },
+  "monthly_capacity": 1756,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb6"
+  },
+  "hospital_id": "PAL_H05",
+  "name": "Brar Ltd Government Hospital",
+  "district": "Palakkad",
+  "type": "Government Hospital",
+  "bed_capacity": 157,
+  "coordinates": {
+    "lat": 10.820310321536546,
+    "lon": 76.6926527235878
+  },
+  "monthly_capacity": 696,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb7"
+  },
+  "hospital_id": "PAL_H06",
+  "name": "Dhar-Manda Community Health Center",
+  "district": "Palakkad",
+  "type": "Government Hospital",
+  "bed_capacity": 40,
+  "coordinates": {
+    "lat": 10.771121873657412,
+    "lon": 76.62974251064846
+  },
+  "monthly_capacity": 790,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb8"
+  },
+  "hospital_id": "PAL_H07",
+  "name": "Nair-Karpe Primary Health Center",
+  "district": "Palakkad",
+  "type": "Government Hospital",
+  "bed_capacity": 75,
+  "coordinates": {
+    "lat": 10.83215629649423,
+    "lon": 76.62107494585926
+  },
+  "monthly_capacity": 1367,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdb9"
+  },
+  "hospital_id": "PAL_H08",
+  "name": "Pradhan Group Primary Health Center",
+  "district": "Palakkad",
+  "type": "Primary Health Center",
+  "bed_capacity": 299,
+  "coordinates": {
+    "lat": 10.821313265671527,
+    "lon": 76.6811472150645
+  },
+  "monthly_capacity": 1482,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdba"
+  },
+  "hospital_id": "PAL_H09",
+  "name": "Pai-Kalla Private Hospital",
+  "district": "Palakkad",
+  "type": "Medical College",
+  "bed_capacity": 61,
+  "coordinates": {
+    "lat": 10.782473906884992,
+    "lon": 76.64505949415917
+  },
+  "monthly_capacity": 1016,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdbb"
+  },
+  "hospital_id": "PAL_H10",
+  "name": "Radhakrishnan, Bhagat and Andra Community Health Center",
+  "district": "Palakkad",
+  "type": "District Hospital",
+  "bed_capacity": 274,
+  "coordinates": {
+    "lat": 10.832663747687484,
+    "lon": 76.67177735485117
+  },
+  "monthly_capacity": 609,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdbc"
+  },
+  "hospital_id": "MAL_H01",
+  "name": "Din-Dhillon District Hospital",
+  "district": "Malappuram",
+  "type": "Medical College",
+  "bed_capacity": 285,
+  "coordinates": {
+    "lat": 11.049112158930644,
+    "lon": 76.03434454455875
+  },
+  "monthly_capacity": 1777,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdbd"
+  },
+  "hospital_id": "MAL_H02",
+  "name": "Dhawan-Uppal Government Hospital",
+  "district": "Malappuram",
+  "type": "Government Hospital",
+  "bed_capacity": 256,
+  "coordinates": {
+    "lat": 11.04283494046911,
+    "lon": 76.05670691859429
+  },
+  "monthly_capacity": 851,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdbe"
+  },
+  "hospital_id": "MAL_H03",
+  "name": "Lanka-Bhattacharyya Medical College",
+  "district": "Malappuram",
+  "type": "District Hospital",
+  "bed_capacity": 204,
+  "coordinates": {
+    "lat": 11.079276298276612,
+    "lon": 76.02633790455889
+  },
+  "monthly_capacity": 1294,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdbf"
+  },
+  "hospital_id": "MAL_H04",
+  "name": "Chopra-Bhattacharyya Primary Health Center",
+  "district": "Malappuram",
+  "type": "Primary Health Center",
+  "bed_capacity": 294,
+  "coordinates": {
+    "lat": 11.05280738513359,
+    "lon": 76.05266278844718
+  },
+  "monthly_capacity": 1554,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc0"
+  },
+  "hospital_id": "MAL_H05",
+  "name": "Chakraborty-Arora District Hospital",
+  "district": "Malappuram",
+  "type": "District Hospital",
+  "bed_capacity": 221,
+  "coordinates": {
+    "lat": 11.02995716416224,
+    "lon": 76.07686079712863
+  },
+  "monthly_capacity": 626,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc1"
+  },
+  "hospital_id": "MAL_H06",
+  "name": "Vyas-Hegde Primary Health Center",
+  "district": "Malappuram",
+  "type": "Government Hospital",
+  "bed_capacity": 55,
+  "coordinates": {
+    "lat": 11.05725476717932,
+    "lon": 76.02353326347624
+  },
+  "monthly_capacity": 1821,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc2"
+  },
+  "hospital_id": "MAL_H07",
+  "name": "Narain LLC Medical College",
+  "district": "Malappuram",
+  "type": "Community Health Center",
+  "bed_capacity": 296,
+  "coordinates": {
+    "lat": 11.056656277233305,
+    "lon": 76.08018826431288
+  },
+  "monthly_capacity": 1740,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc3"
+  },
+  "hospital_id": "MAL_H08",
+  "name": "Ranganathan, Suresh and Barad Primary Health Center",
+  "district": "Malappuram",
+  "type": "Private Hospital",
+  "bed_capacity": 211,
+  "coordinates": {
+    "lat": 11.012939246442931,
+    "lon": 76.07365950135392
+  },
+  "monthly_capacity": 889,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc4"
+  },
+  "hospital_id": "MAL_H09",
+  "name": "Chadha Group Primary Health Center",
+  "district": "Malappuram",
+  "type": "Private Hospital",
+  "bed_capacity": 289,
+  "coordinates": {
+    "lat": 11.042646203371493,
+    "lon": 76.04663905948027
+  },
+  "monthly_capacity": 782,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc5"
+  },
+  "hospital_id": "MAL_H10",
+  "name": "Bala-Kakar Community Health Center",
+  "district": "Malappuram",
+  "type": "District Hospital",
+  "bed_capacity": 254,
+  "coordinates": {
+    "lat": 11.098046195827836,
+    "lon": 76.04886415580567
+  },
+  "monthly_capacity": 782,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc6"
+  },
+  "hospital_id": "MAL_H11",
+  "name": "Borah and Sons Community Health Center",
+  "district": "Malappuram",
+  "type": "Primary Health Center",
+  "bed_capacity": 48,
+  "coordinates": {
+    "lat": 11.05807890022027,
+    "lon": 76.05665383257461
+  },
+  "monthly_capacity": 1274,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc7"
+  },
+  "hospital_id": "MAL_H12",
+  "name": "Mand-Sarna District Hospital",
+  "district": "Malappuram",
+  "type": "Private Hospital",
+  "bed_capacity": 96,
+  "coordinates": {
+    "lat": 11.08004614193578,
+    "lon": 76.11744799915027
+  },
+  "monthly_capacity": 1923,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc8"
+  },
+  "hospital_id": "MAL_H13",
+  "name": "Pradhan-Badal District Hospital",
+  "district": "Malappuram",
+  "type": "Community Health Center",
+  "bed_capacity": 28,
+  "coordinates": {
+    "lat": 11.050334372931953,
+    "lon": 76.03057746207635
+  },
+  "monthly_capacity": 1124,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdc9"
+  },
+  "hospital_id": "MAL_H14",
+  "name": "Seth-Raval District Hospital",
+  "district": "Malappuram",
+  "type": "Primary Health Center",
+  "bed_capacity": 247,
+  "coordinates": {
+    "lat": 11.069548662539905,
+    "lon": 76.05218090091198
+  },
+  "monthly_capacity": 400,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdca"
+  },
+  "hospital_id": "MAL_H15",
+  "name": "Karnik, Sarraf and Garde Primary Health Center",
+  "district": "Malappuram",
+  "type": "Government Hospital",
+  "bed_capacity": 296,
+  "coordinates": {
+    "lat": 11.024789315135896,
+    "lon": 76.04510482767789
+  },
+  "monthly_capacity": 1040,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdcb"
+  },
+  "hospital_id": "MAL_H16",
+  "name": "Goyal-Dora Primary Health Center",
+  "district": "Malappuram",
+  "type": "Medical College",
+  "bed_capacity": 43,
+  "coordinates": {
+    "lat": 11.066864107147621,
+    "lon": 76.06056985193862
+  },
+  "monthly_capacity": 931,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdcc"
+  },
+  "hospital_id": "KOZ_H01",
+  "name": "Sama Inc District Hospital",
+  "district": "Kozhikode",
+  "type": "Medical College",
+  "bed_capacity": 119,
+  "coordinates": {
+    "lat": 11.258937567513831,
+    "lon": 75.75758678645585
+  },
+  "monthly_capacity": 1659,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdcd"
+  },
+  "hospital_id": "KOZ_H02",
+  "name": "Loke, Mohanty and Walia Government Hospital",
+  "district": "Kozhikode",
+  "type": "District Hospital",
+  "bed_capacity": 150,
+  "coordinates": {
+    "lat": 11.210287053836922,
+    "lon": 75.7615582714426
+  },
+  "monthly_capacity": 1749,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdce"
+  },
+  "hospital_id": "KOZ_H03",
+  "name": "Sharma LLC Government Hospital",
+  "district": "Kozhikode",
+  "type": "Medical College",
+  "bed_capacity": 76,
+  "coordinates": {
+    "lat": 11.288800217780736,
+    "lon": 75.78067665070083
+  },
+  "monthly_capacity": 1972,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdcf"
+  },
+  "hospital_id": "KOZ_H04",
+  "name": "Chatterjee-Setty District Hospital",
+  "district": "Kozhikode",
+  "type": "Community Health Center",
+  "bed_capacity": 180,
+  "coordinates": {
+    "lat": 11.244067773232514,
+    "lon": 75.82946902433991
+  },
+  "monthly_capacity": 653,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd0"
+  },
+  "hospital_id": "KOZ_H05",
+  "name": "Keer, Kalita and Hans Medical College",
+  "district": "Kozhikode",
+  "type": "Primary Health Center",
+  "bed_capacity": 206,
+  "coordinates": {
+    "lat": 11.20986492386811,
+    "lon": 75.73915543527681
+  },
+  "monthly_capacity": 1347,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd1"
+  },
+  "hospital_id": "KOZ_H06",
+  "name": "Hayer, Maharaj and Varkey Community Health Center",
+  "district": "Kozhikode",
+  "type": "Private Hospital",
+  "bed_capacity": 160,
+  "coordinates": {
+    "lat": 11.26983765417448,
+    "lon": 75.81964721494278
+  },
+  "monthly_capacity": 1747,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd2"
+  },
+  "hospital_id": "KOZ_H07",
+  "name": "Gupta, Kothari and Dhaliwal Primary Health Center",
+  "district": "Kozhikode",
+  "type": "Government Hospital",
+  "bed_capacity": 151,
+  "coordinates": {
+    "lat": 11.28103148351169,
+    "lon": 75.74003769138957
+  },
+  "monthly_capacity": 473,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd3"
+  },
+  "hospital_id": "KOZ_H08",
+  "name": "Kara, Ramakrishnan and Merchant Medical College",
+  "district": "Kozhikode",
+  "type": "Private Hospital",
+  "bed_capacity": 64,
+  "coordinates": {
+    "lat": 11.26734115379088,
+    "lon": 75.75688029937679
+  },
+  "monthly_capacity": 383,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd4"
+  },
+  "hospital_id": "KOZ_H09",
+  "name": "Bhatt-Goswami Medical College",
+  "district": "Kozhikode",
+  "type": "District Hospital",
+  "bed_capacity": 59,
+  "coordinates": {
+    "lat": 11.295964136303017,
+    "lon": 75.81440135961351
+  },
+  "monthly_capacity": 845,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd5"
+  },
+  "hospital_id": "KOZ_H10",
+  "name": "Rege LLC Medical College",
+  "district": "Kozhikode",
+  "type": "Private Hospital",
+  "bed_capacity": 208,
+  "coordinates": {
+    "lat": 11.25630157877473,
+    "lon": 75.76518547186913
+  },
+  "monthly_capacity": 1615,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd6"
+  },
+  "hospital_id": "KOZ_H11",
+  "name": "Patla, Khare and Mani Medical College",
+  "district": "Kozhikode",
+  "type": "District Hospital",
+  "bed_capacity": 265,
+  "coordinates": {
+    "lat": 11.269653847047165,
+    "lon": 75.79675996646533
+  },
+  "monthly_capacity": 495,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd7"
+  },
+  "hospital_id": "WAY_H01",
+  "name": "Dyal Inc District Hospital",
+  "district": "Wayanad",
+  "type": "Primary Health Center",
+  "bed_capacity": 137,
+  "coordinates": {
+    "lat": 11.729357237111698,
+    "lon": 76.1747079605135
+  },
+  "monthly_capacity": 1088,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd8"
+  },
+  "hospital_id": "WAY_H02",
+  "name": "Murthy, Sachdeva and Khurana Community Health Center",
+  "district": "Wayanad",
+  "type": "Government Hospital",
+  "bed_capacity": 193,
+  "coordinates": {
+    "lat": 11.723284795863044,
+    "lon": 76.10499129351274
+  },
+  "monthly_capacity": 817,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdd9"
+  },
+  "hospital_id": "KAN_H01",
+  "name": "Gara-Deshpande Primary Health Center",
+  "district": "Kannur",
+  "type": "Medical College",
+  "bed_capacity": 298,
+  "coordinates": {
+    "lat": 11.87879403006277,
+    "lon": 75.39175644986717
+  },
+  "monthly_capacity": 1215,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdda"
+  },
+  "hospital_id": "KAN_H02",
+  "name": "Deol PLC Private Hospital",
+  "district": "Kannur",
+  "type": "Private Hospital",
+  "bed_capacity": 251,
+  "coordinates": {
+    "lat": 11.833619119929555,
+    "lon": 75.34872712178411
+  },
+  "monthly_capacity": 467,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbddb"
+  },
+  "hospital_id": "KAN_H03",
+  "name": "Raj Ltd Government Hospital",
+  "district": "Kannur",
+  "type": "Community Health Center",
+  "bed_capacity": 87,
+  "coordinates": {
+    "lat": 11.85189011035671,
+    "lon": 75.38118737173744
+  },
+  "monthly_capacity": 789,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbddc"
+  },
+  "hospital_id": "KAN_H04",
+  "name": "Radhakrishnan, Atwal and Kurian Community Health Center",
+  "district": "Kannur",
+  "type": "Government Hospital",
+  "bed_capacity": 222,
+  "coordinates": {
+    "lat": 11.920777088453255,
+    "lon": 75.33229925292993
+  },
+  "monthly_capacity": 1216,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbddd"
+  },
+  "hospital_id": "KAN_H05",
+  "name": "Saha-Chauhan Community Health Center",
+  "district": "Kannur",
+  "type": "Government Hospital",
+  "bed_capacity": 95,
+  "coordinates": {
+    "lat": 11.921202809826418,
+    "lon": 75.39706120659667
+  },
+  "monthly_capacity": 463,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbdde"
+  },
+  "hospital_id": "KAN_H06",
+  "name": "Sabharwal, Dube and Barad Primary Health Center",
+  "district": "Kannur",
+  "type": "District Hospital",
+  "bed_capacity": 63,
+  "coordinates": {
+    "lat": 11.849368716667472,
+    "lon": 75.32641649470742
+  },
+  "monthly_capacity": 1375,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbddf"
+  },
+  "hospital_id": "KAN_H07",
+  "name": "Peri Inc Private Hospital",
+  "district": "Kannur",
+  "type": "District Hospital",
+  "bed_capacity": 165,
+  "coordinates": {
+    "lat": 11.876365546863875,
+    "lon": 75.38472227306143
+  },
+  "monthly_capacity": 1043,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbde0"
+  },
+  "hospital_id": "KAN_H08",
+  "name": "Sankar-Tripathi Government Hospital",
+  "district": "Kannur",
+  "type": "Primary Health Center",
+  "bed_capacity": 242,
+  "coordinates": {
+    "lat": 11.87956468354474,
+    "lon": 75.40994181961557
+  },
+  "monthly_capacity": 1391,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbde1"
+  },
+  "hospital_id": "KAS_H01",
+  "name": "Loke, Raju and Buch Medical College",
+  "district": "Kasaragod",
+  "type": "Primary Health Center",
+  "bed_capacity": 253,
+  "coordinates": {
+    "lat": 12.46528871776393,
+    "lon": 75.00658215431332
+  },
+  "monthly_capacity": 302,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbde2"
+  },
+  "hospital_id": "KAS_H02",
+  "name": "Garde Group Government Hospital",
+  "district": "Kasaragod",
+  "type": "Private Hospital",
+  "bed_capacity": 297,
+  "coordinates": {
+    "lat": 12.473463816110428,
+    "lon": 74.96503474340822
+  },
+  "monthly_capacity": 1834,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbde3"
+  },
+  "hospital_id": "KAS_H03",
+  "name": "Dewan-Narayanan Primary Health Center",
+  "district": "Kasaragod",
+  "type": "Primary Health Center",
+  "bed_capacity": 155,
+  "coordinates": {
+    "lat": 12.47746412205705,
+    "lon": 74.96605956051347
+  },
+  "monthly_capacity": 1318,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca443788925eb4d26cbde4"
+  },
+  "hospital_id": "KAS_H04",
+  "name": "Krish, Dey and Vala Private Hospital",
+  "district": "Kasaragod",
+  "type": "Community Health Center",
+  "bed_capacity": 75,
+  "coordinates": {
+    "lat": 12.541116668553821,
+    "lon": 75.05006969517692
+  },
+  "monthly_capacity": 1251,
+  "created_at": {
+    "$date": "2025-09-17T10:46:39.680Z"
+  }
+}]

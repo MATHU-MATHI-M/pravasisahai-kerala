@@ -1,0 +1,65 @@
+/* GovDashboard.css */
+.gov-dashboard {
+  padding: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+  color: var(--text);
+}
+
+.dashboard-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.records-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.records-table th, .records-table td {
+  border: 1px solid var(--border);
+  padding: 10px 12px;
+  font-size: 0.95rem;
+}
+.records-table th {
+  background: rgba(0,0,0,0.03);
+}
+.severe-row { background: rgba(239, 68, 68, 0.08); }
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+.risk-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px;
+}
+.risk-card.high { border-left: 4px solid #ef4444; }
+.risk-card.medium { border-left: 4px solid #f59e0b; }
+.risk-card.low { border-left: 4px solid #10b981; }
+
+.camp-form input, .camp-form button {
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text);
+  border-radius: 8px;
+}
+.camp-form button {
+  background: var(--primary);
+  color: var(--primary-contrast);
+  border: none;
+}
+
+.note { color: var(--muted); font-size: 0.9rem; }
+
+@media (max-width: 768px) {
+  .gov-dashboard { padding: 16px; }
+}
